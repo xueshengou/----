@@ -1,0 +1,2 @@
+# Onlineshop
+项目配置时要把src/com/servlet目录下UploadServlet中的multiplepart注解以及basepath中的路径信息改成当前WebContent目录下的img目录地址的路径
